@@ -4,7 +4,7 @@
 
 2. npm start ( Esto inicia el servidor para consumir el json con los usuarios registrados)
 
-3. cd bbva-gus para acceder al front
+3. cd bbva-gus para acceder al front y hacer npm install para traer las dependencias del node del servidor front
 
 4. npm start para iniciar el servidor front
 
