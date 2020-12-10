@@ -1,4 +1,4 @@
-# pruebaBBVA
+# pruebaBBVA Ing Gustavo A Urzola M Bogota Colombia  Diciembre 2020
 
 1. Sobre la carpeta raiz hacer npm install para traer las dependencias node del servidor back
 
