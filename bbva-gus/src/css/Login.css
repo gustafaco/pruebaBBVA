@@ -1,0 +1,19 @@
+.containerPrincipal{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    padding: 40px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.containerSecundario{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: rgb(2, 11, 88) !important;
+}
+.btnLock{
+    color: rgb(55, 147, 252);
+}

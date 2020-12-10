@@ -1,0 +1,27 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido":"Urzola",
+            "nombre":"Gustavo",
+            "email":"gurzola@gmail.com",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+
+        },
+        {
+            "id":2,
+            "apellido":"Urzola",
+            "nombre":"Mathias",
+            "email":"murzola@gmail.com",
+            "password":"01cfcd4f6b8770febfb40cb906715822"
+        },
+        {
+            "id":3,
+            "apellido":"BBVA",
+            "nombre":"Banco",
+            "email":"bbva@gmail.com",
+            "password":"7b7a53e239400a13bd6be6c91c4f6c4e"
+        }
+
+    ]
+}
